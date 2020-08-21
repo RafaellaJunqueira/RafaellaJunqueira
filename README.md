@@ -1,4 +1,4 @@
-<img align = 'right' alt = "gif with text We can create something better" src = "https://media.giphy.com/media/xUA7bajF5iamxgXkK4/giphy.gif" width = "230"/>
+<img align = 'right' alt = "gif with text We can create something better" src = "https://media.giphy.com/media/xUA7bajF5iamxgXkK4/giphy.gif" width = "270"/>
 
 # Olá, eu sou  Rafaella Junqueira
 
@@ -15,6 +15,7 @@
 - Atividades ao ar livre? Me chama que eu vou!
 
 ## Entre em contato
-- 
+- Email rafaellafjunqueira@gmail.com
+- [Linkedin](https://www.linkedin.com/in/rafaella-o-de-f-junqueira-3361a6185/)
 
 
