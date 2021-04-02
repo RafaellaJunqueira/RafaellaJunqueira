@@ -1,4 +1,4 @@
-<img align = 'right' alt = "gif with text We can create something better" src = "https://media.giphy.com/media/xUA7bajF5iamxgXkK4/giphy.gif" width = "270"/>
+<img align = 'right' alt = "gif com texto We can create something better" src = "https://media.giphy.com/media/xUA7bajF5iamxgXkK4/giphy.gif" width = "270"/>
 
 # Olá, eu sou  Rafaella Junqueira
 
@@ -8,7 +8,8 @@
 - Amante de boa música.
 
 ## O que faço no momento
-- Participando como mentora do Projeto BOSS, um programa para incentivar o engajamento de mulheres em comunidades _open source_.
+- Participando como mentora do Projeto BOSS - Big Open Source Sibling, um programa para incentivar o engajamento de grupos subrepresentados em comunidades _open source_.
+- Projeto de Iniciação Científica sobre sistemas de autmação de bibliotecas utilizando CMS's;
 
 ## Curiosidades
 - Brasiliense, porém, nunca fui ao planetário;
