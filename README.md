@@ -16,6 +16,6 @@
 
 ## Entre em contato
 - Email rafaellafjunqueira@gmail.com
-- [Linkedin](https://www.linkedin.com/in/rafaella-o-de-f-junqueira-3361a6185/)
+- [Linkedin](www.linkedin.com/in/junqueira-rafaella)
 
 
