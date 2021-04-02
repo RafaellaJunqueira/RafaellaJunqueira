@@ -8,8 +8,8 @@
 - Amante de boa música.
 
 ## O que faço no momento
-- Participando como mentora do Projeto BOSS - Big Open Source Sibling, um programa para incentivar o engajamento de grupos subrepresentados em comunidades _open source_.
-- Projeto de Iniciação Científica sobre sistemas de autmação de bibliotecas utilizando CMS's;
+- Mentora na Iniciativa BOSS - Big Open Source Sibling, um programa para incentivar o engajamento de grupos subrepresentados em comunidades _open source_.
+- Pesquisadora no PIBIC - Projeto de Iniciação Científica, sobre sistemas de autmação de bibliotecas utilizando CMS's;
 
 ## Curiosidades
 - Brasiliense, porém, nunca fui ao planetário;
