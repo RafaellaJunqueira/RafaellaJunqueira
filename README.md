@@ -1,6 +1,4 @@
-<img align='right' alt="Ícone do jogo Space Invaders" src="
-https://media.giphy.com/media/KY2ZMhnCxP008/giphy.gif
-" width="130"/>
+<img align = 'right' alt = "gif com texto We can create something better" src = "https://media.giphy.com/media/xUA7bajF5iamxgXkK4/giphy.gif" width = "270"/>
 
 # Olá, meu nome é Rafaella Junqueira
 
