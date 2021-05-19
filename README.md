@@ -1,4 +1,6 @@
-<img align='right' src="https://giphy.com/clips/ryndean-queen-crown-my-aCc7D5KWjG0NFRqTiJ" width="300" height="300"/>
+<img align='right' alt="Ícone do jogo Space Invaders" src="
+https://media.giphy.com/media/KY2ZMhnCxP008/giphy.gif
+" width="130"/>
 
 # Olá, meu nome é Rafaella Junqueira
 
