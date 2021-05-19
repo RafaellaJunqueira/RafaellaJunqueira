@@ -1,4 +1,4 @@
-<iframe align='right' src="https://giphy.com/embed/eM251I22TO4KhqlK6k" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+<img align='right' src="https://giphy.com/clips/ryndean-queen-crown-my-aCc7D5KWjG0NFRqTiJ" width="300" height="300"/>
 
 # Olá, meu nome é Rafaella Junqueira
 
