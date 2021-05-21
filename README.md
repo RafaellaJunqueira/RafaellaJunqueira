@@ -1,16 +1,22 @@
 <img align = 'right' alt = "gif com texto We can create something better" src = "https://media.giphy.com/media/xUA7bajF5iamxgXkK4/giphy.gif" width = "270"/>
 
-# Olá, meu nome é Rafaella Junqueira
+# Olá, eu sou  Rafaella Junqueira
 
 ## Sobre mim
-* Sou estudante de Engenharia de Software na UnB;
-* Sou brasiliense, nascida e criada;
-* Atualhmente, trabalho usando Python mas gosto de html/css, os frameworks Angular e Spring Boot, etc etc etc
+- Brasiliense nascida e criada;
+- Cursando Engenharia de Software;
+- Amante de boa música.
 
-## Interesses
-* Gosto de forró e ouvir músicas tranquilinhas;
-* Meu hobby é encher o saco da minha friend [@brunamoreira](https://github.com/BrunaNayara)
+## O que faço no momento
+- Mentora na Iniciativa BOSS - Big Open Source Sibling, um programa para incentivar o engajamento de grupos subrepresentados em comunidades _open source_;
+- Estagiária na área de forense digital;
+- Pesquisadora no PIBIC - Projeto de Iniciação Científica, sobre sistemas de autmação de bibliotecas utilizando CMS's.
 
-## Contatos
-* Você pode entrar em contato comigo via [Linkedin](https://www.linkedin.com/in/junqueira-rafaella/)
-* Pode também me chamar pelo [Telegram]()
+## Curiosidades
+- Brasiliense, porém, nunca fui ao planetário;
+- Atividades ao ar livre? Me chama que eu vou!
+
+## Entre em contato
+- Email rafaellafjunqueira@gmail.com
+- [Linkedin](https://www.linkedin.com/in/junqueira-rafaella/)
+
