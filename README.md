@@ -16,6 +16,7 @@
 - Brasiliense, porém, nunca fui ao planetário;
 - Atividades ao ar livre? Me chama que eu vou!
 - É uma amiga pra toda hora.
+- A Rafa tem gatos.
 
 ## Entre em contato
 - Email rafaellafjunqueira@gmail.com
