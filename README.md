@@ -22,3 +22,7 @@
 - Email rafaellafjunqueira@gmail.com
 - [Linkedin](https://www.linkedin.com/in/junqueira-rafaella/)
 
+<div align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaellaJunqueira&show_icons=true&theme=radical)
+</div>
