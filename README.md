@@ -8,15 +8,23 @@
 - Amante de boa música.
 
 ## O que faço no momento
+- Estagiária de desenvolvimento Python na área de Forense Digital;
 - Mentora na Iniciativa BOSS - Big Open Source Sibling, um programa para incentivar o engajamento de grupos subrepresentados em comunidades _open source_;
-- Estagiária na área de forense digital;
 - Pesquisadora no PIBIC - Projeto de Iniciação Científica, sobre sistemas de autmação de bibliotecas utilizando CMS's.
+
+## Interesses
+- Web Scraping;
+- DevOps;
+- Data Science
 
 ## Curiosidades
 - Brasiliense, porém, nunca fui ao planetário;
 - Atividades ao ar livre? Me chama que eu vou!
-- É uma amiga pra toda hora.
+- É uma amiga pra toda hora;
 - A Rafa tem gatos.
+- Já apresentei na Python Brasil;
+- Já apresentei também na Bots Brasil;
+- Nunca fui a uma Campus Party... porém queria :/
 
 ## Entre em contato
 - Email rafaellafjunqueira@gmail.com
