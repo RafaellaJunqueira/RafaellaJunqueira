@@ -3,28 +3,29 @@
 # Olá, eu sou  Rafaella Junqueira
 
 ## Sobre mim
-- Brasiliense nascida e criada;
 - Cursando Engenharia de Software;
+- Brasiliense nascida e criada;
 - Amante de boa música.
 
 ## O que faço no momento
-- Estagiária de desenvolvimento Python na área de Forense Digital;
+- Estagiária backend de desenvolvimento Python na área Forense Digital;
 - Mentora na Iniciativa BOSS - Big Open Source Sibling, um programa para incentivar o engajamento de grupos subrepresentados em comunidades _open source_;
 - Pesquisadora no PIBIC - Projeto de Iniciação Científica, sobre sistemas de autmação de bibliotecas utilizando CMS's.
 
 ## Interesses
+- Extração de dados;
 - Web Scraping;
 - DevOps;
-- Data Science
+- Data Science;
+- Atualmente, interessada também em desenvolvimento mobile.
 
 ## Curiosidades
-- Brasiliense, porém, nunca fui ao planetário;
-- Atividades ao ar livre? Me chama que eu vou!
-- É uma amiga pra toda hora;
-- A Rafa tem gatos.
 - Já apresentei na Python Brasil;
 - Já apresentei também na Bots Brasil;
-- Nunca fui a uma Campus Party... porém queria :/
+- Brasiliense mas nunca fui ao planetário;
+- Também nunca fui a uma Campus Party mas queria :/
+- Amante de atividades ao ar livre;
+- Gosto de cantar.
 
 ## Entre em contato
 - Email rafaellafjunqueira@gmail.com
